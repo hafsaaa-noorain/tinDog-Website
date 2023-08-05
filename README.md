@@ -1,1 +1,1 @@
-# tinDog-website
+# tinDog-website (Udemy Course Project)
